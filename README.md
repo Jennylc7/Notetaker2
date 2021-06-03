@@ -1,20 +1,24 @@
 # Notetaker2
-Description
+
+Description:
 
 This a responsive app to create and delete notes.  
 
 
-User Info
+
+User Info:
 
 This app requires the user to enter in a note title and also to enter in note text.  The note is saved and stored on the browser until the user selects to delete it. 
 
 
-Technologies used
+
+Technologies used:
 
 HTML, CSS, Javascript, Node.js and Express.
 
 
-Screenshot of browser
+
+Screenshot of Browser:
 
 ![Screenshot 2021-06-03 155251](https://user-images.githubusercontent.com/69978605/120716970-085d6e00-c484-11eb-8dcf-396604a35370.png)
 
